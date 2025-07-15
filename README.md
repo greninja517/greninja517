@@ -14,7 +14,7 @@
 
 <img align="right" alt="DevOps" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-👋 **Hey there!** I'm Anjal, a passionate **DevOps & Cloud-Native Enthusiast** building automated, scalable, and reliable systems.
+👋 **Hey there!** I'm Anjal, a passionate **DevOps & Cloud-Native Enthusiast** building automated, scalable, and resilient systems.
 
 🛠️ I believe in **"Infrastructure as Code**, **GitOps**, and **automation."** 
 
@@ -26,7 +26,12 @@
 
 🎓 Currently pursuing **B.Tech in AI & ML** @ Symbiosis Institute of Technology, Pune, India.
 
-🚀 **Currently exploring:** Advanced Kubernetes patterns, Controller Development, GitOps workflows, Infrastructure as Code best practices, and contributing to open-source projects that make DevOps accessible to everyone.
+🚀 **Currently exploring:**
+- *Advanced Kubernetes patterns*
+- *Controller Development*
+- *GitOps workflows*
+- *Infrastructure as Code best practices*
+- *Contributing to open-source projects* that make DevOps accessible to everyone
 
 💼 **Always open to:** Internships, collaborations, mentorship opportunities about cloud-native technologies.
 
