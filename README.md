@@ -12,8 +12,6 @@
 
 ## 🇳🇵 About Me
 
-<img align="right" alt="DevOps" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 👋 **Hey there!** I'm Anjal, a passionate **DevOps & Cloud-Native Enthusiast** building automated, scalable, and resilient systems.
 
 🛠️ I believe in **"Infrastructure as Code**, **GitOps**, and **automation."** 
@@ -83,7 +81,6 @@
 
 <div align="center">
   <h3>🌱 Always learning. Always building. Always improving. 🚀</h3>
-  <p><em>"Infrastructure is code, code is infrastructure."</em></p>
 </div>
 
 <div align="center">
