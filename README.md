@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,00CED1&height=200&section=header&text=Anjal%20Poudel&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Anjal%20Poudel&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ECECEC" width="100%"/>
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=650&height=100&lines=DevOps+%26+Cloud+Engineer;CI/CD+%7C+Kubernetes+%7C+Terraform+%7C+GitOps&background=00000000" alt="Typing SVG" />
