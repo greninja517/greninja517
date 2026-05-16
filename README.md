@@ -39,6 +39,16 @@
 
 ---
 
+## 🏆 Certifications
+
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**  
+  Issuer: Amazon Web Services  
+  🔗 Verification: https://www.credly.com/badges/44568db3-a507-440a-9b6d-441ca2a7782d/public_url
+
+<br clear="right"/>
+
+---
+
 ## 🧰 Tech Arsenal
 
 ### 💻 Programming Languages
